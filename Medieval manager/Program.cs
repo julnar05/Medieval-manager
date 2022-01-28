@@ -6,7 +6,12 @@ namespace Medieval_manager
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Clear();
+            for (int i = 0; i < 20; i++)
+            {
+                Console.WriteLine("Hello World!");
+            }
+            
         }
     }
 }
